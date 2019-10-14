@@ -77,4 +77,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Dont changed starter and init content
-Content/Init/*
+Content/Assets/Init/*
