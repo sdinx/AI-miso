@@ -146,6 +146,10 @@
 		{
 			"Name": "SteamVR",
 			"Enabled": false
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
